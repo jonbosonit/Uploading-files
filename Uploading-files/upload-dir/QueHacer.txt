@@ -1,0 +1,79 @@
+QUEHACER:
+
+
+TIEMPO MUERTO:
+
+- JAVA -> Mirar stream, map y estos metodos que hacen
+
+- Seguir con la formacion de back de la pagina de siempre,
+hay varias cosas que no he mirado y me vendria bien
+
+- Como hacer un nuevo commit en un repositorio
+de github.
+
+- entorno multi hilo o multi thread.
+solucion -> variables de sesion y no se guarda 
+en el servidor las variables sino donde el usuario
+o algo de cookies
+
+- Aprender JavaScript y algo de TypeScript
+
+- Facilidad para iniciar proyectos desde 0
+(ya sea spring, node...)
+
+- Donde las querys avanzadas tenemos como hacer por
+ejemplo cuantos autores hay que hayan escrito
+al menos 3 libros. Autores y libros son tablas
+diferentes unidas por un ManyToMany
+
+
+Producto real, reuniones diarias etc mediante trello
+profesores y estudiantes. profesor manda ejercicios, ellos
+los van haciendo. Simular un programa grande con muchos
+usuarios. Seguridad en el back, validacion contra google
+(entrar con google). JWT cogerlo y comprobar que es de
+google. Documentacion seguridad. 
+
+
+coger ese token y crear uno nuevo (token es lo que te llega
+de google). 
+
+testing en springboot
+seguridad en spring
+SA3 subiendo y bajando ficheros
+sockets
+
+
+
+HORAS:
+
+- Lunes 9 -> 3
+- Martes 10 -> 2
+- Miercoles 11 -> 2
+- Jueves 12 -> 2:30
+
+- Lunes 16 -> 2:30
+- Martes 17 -> 2
+- Miercoles 18 -> 1:30
+- Jueves 19 -> 2
+
+Lunes 30 -> 1:30
+Martes 31 -> 3
+Miercoles 1 -> 2
+Jueves 2 -> 1:30
+
+Cumplidas -> 24
+Extra -> 1:30
+Quedan -> 0
+
+
+FORMACION: 
+
+Full stack -> java9
+1 octubre 31 diciembre
+9-13 media jornada lunes-viernes
+400
+
+
+
+
