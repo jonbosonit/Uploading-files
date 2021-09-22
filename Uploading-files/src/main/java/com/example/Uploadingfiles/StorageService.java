@@ -1,6 +1,6 @@
 package com.example.Uploadingfiles;
 
-/*import org.springframework.core.io.Resource;
+import org.springframework.core.io.Resource;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.nio.file.Path;
@@ -13,4 +13,4 @@ public interface StorageService {
     Path load(String fileName);
     Resource loadAsResource(String fileName);
     void deleteAll();
-}*/
+}
